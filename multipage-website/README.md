@@ -58,7 +58,7 @@ multipage-website
 
 ## Live Website
 
-[Visit The Khaya Company Website](<https://jocular-otter-4d2054.netlify.app/>)
+[Visit The Khaya Company Website](<https://thekhayacompanytest.netlify.app/>)
 
 ## License
 
